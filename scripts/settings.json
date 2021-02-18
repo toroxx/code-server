@@ -1,0 +1,21 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "git.enableSmartCommit": true,
+    "java.semanticHighlighting.enabled": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.multiCursorModifier": "alt",
+    "editor.columnSelection": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "workbench.colorTheme": "Tx Neon (Purple)",
+    "java.requirements.JDK11Warning": false,
+    "files.autoSave": "off",
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "terminal.integrated.fontFamily": "monospace,'Meslo LG M for Powerline'"
+    
+}
